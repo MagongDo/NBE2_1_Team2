@@ -13,16 +13,16 @@
 <img width="866" alt="image" src="https://github.com/user-attachments/assets/66174b71-3684-4441-834b-60b0cc55726e">
 
 ## 프로젝트 개요
-<img width="866" alt="image" src="https://github.com/user-attachments/assets/de6820ab-996e-4755-ba74-4e500934d0fc">
+<img width="714" alt="image" src="https://github.com/user-attachments/assets/4a6e065a-5a8c-4bb9-9765-7445acad9d55">
 
 ## ERD 
-<img width="866" alt="image" src="https://github.com/user-attachments/assets/45fc866b-0009-4363-b9dc-24dcc1a54438">
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/5e2521d9-7e95-4a26-916a-0a3f1da7ef64">
 
 ## 구조도
-<img width="866" alt="image" src="https://github.com/user-attachments/assets/dc304378-7617-430c-95ec-0da9ccaca1a0">
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/38244c9e-1f3a-47f9-b74f-384931237f59">
 
 ## 기능프로세스
-<img width="866" alt="image" src="https://github.com/user-attachments/assets/00bca8bb-aae3-4321-a27e-9fa823d98367">
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/ea0331b0-d313-4e37-8674-0200def3fa5b">
 
 ## API문서
 <img width="866" alt="image" src="https://github.com/user-attachments/assets/d7587eb3-65a6-4614-9780-e96342c3f5e3">
