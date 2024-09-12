@@ -6,7 +6,7 @@
 ## 팀원소개
 <img width="848" alt="image" src="https://github.com/user-attachments/assets/94b3db45-2dcc-4f72-8966-6325516093a1">
 
+## 화면 흐름도
+<img width="866" alt="image" src="https://github.com/user-attachments/assets/8aaaa666-5f2c-4286-8830-3422d9903fc9">
+<img width="866" alt="image" src="https://github.com/user-attachments/assets/01e7ab33-5157-4deb-8868-2439f2efba33">
 
-최강 2팀입니다
-
-.
