@@ -22,7 +22,7 @@
 <img width="713" alt="image" src="https://github.com/user-attachments/assets/38244c9e-1f3a-47f9-b74f-384931237f59">
 
 ## 기능프로세스
-<img width="713" alt="image" src="https://github.com/user-attachments/assets/ea0331b0-d313-4e37-8674-0200def3fa5b">
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/74765544-ea17-411e-b3a2-7a42bddc1ed3">
 
 ## API문서
 <img width="866" alt="image" src="https://github.com/user-attachments/assets/d7587eb3-65a6-4614-9780-e96342c3f5e3">
@@ -37,7 +37,8 @@
 
 
 ## 화면 흐름도
-<img width="866" alt="image" src="https://github.com/user-attachments/assets/8aaaa666-5f2c-4286-8830-3422d9903fc9">
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/1d169c38-9150-47ac-bf6f-5f3b99604d5e">
+
 <img width="866" alt="image" src="https://github.com/user-attachments/assets/01e7ab33-5157-4deb-8868-2439f2efba33">
 <img width="866" alt="image" src="https://github.com/user-attachments/assets/a54cf14f-43e5-4e0a-9ae1-fa2060e509ec">
 <img width="866" alt="image" src="https://github.com/user-attachments/assets/2875b50c-16a4-418f-ae0d-fad602b3ff56">
