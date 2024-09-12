@@ -34,6 +34,7 @@ public class Product {
     @LastModifiedDate
     private LocalDateTime updatedAt;
     @OneToMany(mappedBy = "product", cascade = CascadeType.ALL, orphanRemoval = true)
+    @JsonManagedReference
     private List<OrderItem> children = new ArrayList<>();
 
     public Product(Product product) {
