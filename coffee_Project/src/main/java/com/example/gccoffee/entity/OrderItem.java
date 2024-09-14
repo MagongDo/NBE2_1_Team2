@@ -28,6 +28,7 @@ public class OrderItem {
     private Orders orders;
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name="product_id")
+    @JsonBackReference
     private Product product;
     @Enumerated(EnumType.STRING)
     private Category category; //밸류값으로 맵핑
